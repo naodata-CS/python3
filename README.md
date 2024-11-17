@@ -1,2 +1,2 @@
 # python3
-Python exercises from beginner to advanced 
+In this repository you watch my practices, code, etc. From a beginner to become a professional programmer.
